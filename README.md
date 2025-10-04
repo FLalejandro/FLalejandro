@@ -4,12 +4,12 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLalejandro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-statss-git-main-alejandros-projects-969c8294.vercel.app/api?username=FLalejandro&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 💻 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLalejandro&layout=compact&theme=radical" alt="Used Languages" />
+  <img src="https://github-readme-statss-git-main-alejandros-projects-969c8294.vercel.app/api/top-langs/?username=FLalejandro&layout=compact&theme=radical" alt="Used Languages" />
 </p>
 
 ---
